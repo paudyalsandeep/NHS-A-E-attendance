@@ -1,2 +1,6 @@
 /Datasets/Raw
 /Datasets/Cleaned
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.env
